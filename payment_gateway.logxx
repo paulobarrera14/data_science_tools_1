@@ -1,0 +1,11 @@
+customer:2150:credit_card:xxxx-xxxx-xxxx:charged:$50
+customer:2350:credit_card:xxxx-xxxx-xxxx:charged:$20
+Paymenet gateway: STATUS 200
+customer:3456 payment failed
+customer:3350:credit_card:xxxx-xxxx-xxxx:charged:$71
+customer:4350:credit_card:xxxx-xxxx-xxxx:charged:$50
+customer:2350:credit_card:xxxx-xxxx-xxxx:charged:$20
+ncustomer:2150:credit_card:xxxx-xxxx-xxxx:charged:$50
+customer:3350:credit_card:xxxx-xxxx-xxxx:charged:$71
+customer:2350:credit_card:xxxx-xxxx-xxxx:charged:$20
+customer:2350:credit_card:xxxx-xxxx-xxxx:declined charged:attempt:3
